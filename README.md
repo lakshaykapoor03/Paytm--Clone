@@ -13,7 +13,7 @@ Almost 2 days.
 
 # Skills Used :
 
-## HTML , 
+## HTML , Tailwind CSS.
 
 </br>
 
